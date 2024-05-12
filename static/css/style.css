@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+a:link {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: transparent;
+  text-decoration: underline;
+}
+
